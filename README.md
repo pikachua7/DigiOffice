@@ -1,4 +1,4 @@
-# DgiOffice
+# DigiOffice
 
 
 ### Follow the steps below to download, install, and use this DApp Template for your DApp to get started.
